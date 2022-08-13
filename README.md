@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
-Hello, my name is Alexey, and I'm a software developer.<br /><br />
+Hello, my name is Aleksei, and I'm a web developer.<br /><br />
 
 **Links to my profiles:**
 <!-- <a href="https://vk.com/none">
